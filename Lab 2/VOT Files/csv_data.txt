@@ -1,0 +1,300 @@
+
+xmin = 9.826597835984787 
+xmax = 9.842797317991993 
+text = "0.016ms" 
+text2 = bakkumiraa
+text3 = rear view mirror
+
+xmin = 11.245504913076342 
+xmax = 11.266822427383651 
+text = 0.021ms 
+text2 = bebiikaa
+text3 = stroller
+
+xmin = 12.491929565910551 
+xmax = 12.518496124818085 
+text = 0.026ms 
+text2 = betsubetsu
+text3 = seperately
+
+xmin = 13.969487128184607 
+xmax = 14.045076832565787 
+text = 0.076ms 
+text2 = kiroku
+text3 = records
+
+xmin = 15.058637494394295 
+xmax = 15.099903016735077 
+text = 0.041ms 
+text2 = pinchi
+text3 = pinch
+
+xmin = 16.160534929180955 
+xmax = 16.236344934515223 
+text = 0.076ms 
+text2 = kami
+text3 = paper
+
+xmin = 17.658895274559274 
+xmax = 17.68138332448638 
+text = 0.022ms 
+text2 = bataa
+text3 = butter
+
+xmin = 18.675296755529693 
+xmax = 18.74061233594727 
+text = 0.065ms 
+text2 = geesen
+text3 = arcade
+
+xmin = 19.826888167780716 
+xmax = 19.850033674884855 
+text = 0.023ms 
+text2 = basho
+text3 = place
+
+xmin = 20.947953330796004 
+xmax = 20.993155256085718 
+text = 0.045ms 
+text2 = gikai
+text3 = congress
+
+xmin = 22.279408283143177 
+xmax = 22.30272944185858 
+text = 0.023ms 
+text2 = bakkin
+text3 = fine
+
+xmin = 23.341800666346114 
+xmax = 23.383851818971678 
+text = 0.042ms 
+text2 = pasokon
+text3 = computer
+
+xmin = 24.378923559351776 
+xmax = 24.412233043796068 
+text = 0.033ms 
+text2 = penshon
+text3 = pension
+
+xmin = 25.863933827714693 
+xmax = 25.89048539878549 
+text = 0.027ms 
+text2 = bijutsukan
+text3 = art museum
+
+xmin = 27.06101530326523 
+xmax = 27.111887970416507 
+text = 0.051ms 
+text2 = gibu appu
+text3 = give up
+
+xmin = 28.946217479697687 
+xmax = 28.984980620120645 
+text = 0.039ms 
+text2 = genzai
+text3 = present
+
+xmin = 29.95830639555228 
+xmax = 30.025876590514045 
+text = 0.068ms 
+text2 = kenkyuu
+text3 = research
+
+xmin = 31.498395506586753 
+xmax = 31.513693865309968 
+text = 0.015ms 
+text2 = biru
+text3 = building
+
+xmin = 32.50519239948134 
+xmax = 32.58202400039136 
+text = 0.076ms 
+text2 = kameraman
+text3 = cameraman
+
+xmin = 33.8931759751112 
+xmax = 33.952592425993615 
+text = 0.059ms 
+text2 = kemburijji
+text3 = Cambridge
+
+xmin = 35.59054842141708 
+xmax = 35.60926598207989 
+text = 0.019ms 
+text2 = bangumi
+text3 = program
+
+xmin = 36.840197909741754 
+xmax = 36.92614576281258 
+text = 0.086ms 
+text2 = kirisuto
+text3 = Christ
+
+xmin = 38.324590014167136 
+xmax = 38.34022665116601 
+text = 0.016ms 
+text2 = benri
+text3 = convenient
+
+xmin = 39.51355662450097 
+xmax = 39.53060689404503 
+text = 0.017ms 
+text2 = garasu
+text3 = glass
+
+xmin = 40.713814760333086 
+xmax = 40.736064134536406 
+text = 0.022ms 
+text2 = gakusha
+text3 = lecturer
+
+xmin = 3.2418239557469883 
+xmax = 3.3348725121352385 
+text = 0.093ms 
+text2 = kiroku 
+text3 = records
+
+xmin = 5.3537223611161675 
+xmax = 5.373229873002667 
+text = 0.019ms 
+text2 = bijutsukan 
+text3 = art museum
+
+xmin = 7.496943114997692 
+xmax = 7.5072079062657116 
+text = 0.010ms 
+text2 = betsubetsu
+text3 = seperately
+
+xmin = 10.061348045986717 
+xmax = 10.107570930083881 
+text = 0.046ms 
+text2 = garasu 
+text3 = glass
+
+xmin = 12.48629326633599 
+xmax = 12.511772718585535 
+text = 0.025ms 
+text2 = gakusha 
+text3 = lecturer
+
+xmin = 14.79567872580329 
+xmax = 14.815056065241729 
+text = 0.019ms
+text2 = benri 
+text3 = convenient
+
+xmin = 16.88406124749742 
+xmax = 16.892681149346714 
+text = 0.009ms 
+text2 = bebiikaa 
+text3 = stroller
+
+xmin = 19.064100750256596 
+xmax = 19.07137247648727 
+text = 0.007ms 
+text2 = biru 
+text3 = building
+
+xmin = 20.75550906677595 
+xmax = 20.817631777437985 
+text = 0.062ms 
+text2 = kameraman 
+text3 = cameraman
+
+xmin = 23.112618073616712 
+xmax = 23.182716078590975 
+text = 0.070ms 
+text2 = kemburijji 
+text3 = Cambridge
+
+xmin = 25.460492072834864 
+xmax = 25.487445586892516 
+text = 0.027ms 
+text2 = geesen 
+text3 = arcade
+
+xmin = 27.767368298438306 
+xmax = 27.79216619228682 
+text = 0.025ms 
+text2 = genzai 
+text3 = present
+
+xmin = 29.77558260754768 
+xmax = 29.849947928914297 
+text = 0.074ms 
+text2 = kenkyuu 
+text3 = research
+
+xmin = 31.855860799053353 
+xmax = 31.868610549060495 
+text = 0.013ms 
+text2 = basho 
+text3 = place
+
+xmin = 33.78927481941724 
+xmax = 33.84542707408213 
+text = 0.056ms 
+text2 = kami 
+text3 = paper
+
+xmin = 35.62703417953101 
+xmax = 35.66731681200304 
+text = 0.040ms 
+text = gibuappu 
+text3 = give up
+
+xmin = 38.00423941002262 
+xmax = 38.014189574431434 
+text = 0.010ms 
+text2 = bangumi 
+text3 = program
+
+xmin = 40.64633165024942 
+xmax = 40.69791889050181 
+text = 0.051ms 
+text2 = pinchi 
+text3 = pinch
+
+xmin = 42.6910266410488 
+xmax = 42.71821044599373 
+text = 0.027ms 
+text2 = gikai 
+text3 = congress
+
+xmin = 44.87271345066936 
+xmax = 44.88465715902657 
+text = 0.012ms 
+text2 = bataa 
+text3 = butter
+
+xmin = 46.814406334576354 
+xmax = 46.844207286580904 
+text = 0.030ms 
+text2 = pasokon 
+text3 = computer
+
+xmin = 49.10796858171956 
+xmax = 49.13564857435753 
+text = 0.027ms 
+text2 = penshon 
+text3 = pension
+
+xmin = 51.01787617474689 
+xmax = 51.0896143126959 
+text = 0.071ms 
+text2 = kirisuto 
+text3 = Christ
+
+xmin = 53.29524765560612 
+xmax = 53.31467240955119 
+text = 0.019ms 
+text2 = bakkin 
+text3 = fine
+
+xmin = 55.619575837920635 
+xmax = 55.62945133874061 
+text = 0.010ms 
+text2 = bakkumiraa 
+text3 = rear view mirror
